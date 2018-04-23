@@ -1,5 +1,5 @@
 # Metas compartidas BBVA Bancomer
-![BBVA Plan](assets/images/BBVA-plan.jpg)
+![BBVA Plan](assets/images/bbva-plan-logo.png)
 
 * **Track:** UX Specialization
 * **Sprint 06:** UX PROCESS
@@ -78,9 +78,14 @@ Implementar metas compartidas, con metas a corto y largo plazo.
 
 ![System desing](assets/images/System_Design_uxCorp.png)
 
+### Diseño de nueva identidad
+![Wireframes.jpg](assets/images/puerquito.png)
+
+
+### Creación de íconos
+![Wireframes.jpg](assets/images/Sin título-4.png)
+
 ### Wireframes
 ![Wireframes.jpg](assets/images/Wireframes.jpg)
 
-### Creación y rediseño de logos para BBVA plan
-
-### Mapa de interactividad
+### Prototipo funcional
